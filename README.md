@@ -1,2 +1,2 @@
 # HorizonSEO-
-Used for practicing refracturing HTML5.
+HorizonSEO is a small project practicing refractor old html into semantic html for HTML5. Files include updated code as well as a copy of the original to show changes made. 
